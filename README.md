@@ -1,5 +1,12 @@
+
+
+
 ### Hi there, I'm Tanner 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twagdurr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <p>Here's a little about my GitHub profile:</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twagdurr&count_private=true" />
+</div>
 
 <!--
 **twagdurr/twagdurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
